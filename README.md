@@ -14,4 +14,4 @@ Run these commands:
 `node app.js
 
 
-Read more about it in my blog https://mvgeroge1.hashnode.dev/cicd-pipeline-to-deploy-nodejs-application-on-docker-container
+Read more about *this* in my blog https://mvgeroge1.hashnode.dev/cicd-pipeline-to-deploy-nodejs-application-on-docker-container
